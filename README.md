@@ -1,1 +1,1 @@
-# nyt_scrape
+# mozillablog_scrape
